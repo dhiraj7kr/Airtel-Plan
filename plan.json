@@ -1,0 +1,166 @@
+{
+  "plans": [
+    {
+      "name": "₹199 Plan",
+      "price": 199,
+      "validity": 28,
+      "data": "2GB total",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Entry-level plan with 2GB total data, unlimited calls, and 100 SMS/day. Includes free Hello Tunes and Wynk Music.",
+      "other_benefits": ["Hello Tunes", "Wynk Music"]
+    },
+    {
+      "name": "₹219 Plan",
+      "price": 219,
+      "validity": 30,
+      "data": "3GB total",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Offers 3GB total data, unlimited calls, and 100 SMS/day. Includes free Hello Tunes and Wynk Music.",
+      "other_benefits": ["Hello Tunes", "Wynk Music"]
+    },
+    {
+      "name": "₹249 Plan",
+      "price": 249,
+      "validity": 24,
+      "data": "1GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Provides 1GB/day data, unlimited calls, and 100 SMS/day. Suitable for moderate data users.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹299 Plan",
+      "price": 299,
+      "validity": 28,
+      "data": "1GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Includes 1GB/day data, unlimited calls, and 100 SMS/day. Ideal for daily data usage.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹349 Plan",
+      "price": 349,
+      "validity": 28,
+      "data": "1.5GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Offers 1.5GB/day data, unlimited calls, and 100 SMS/day. Enhanced data for heavy users.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹379 Plan",
+      "price": 379,
+      "validity": 30,
+      "data": "2GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Provides 2GB/day data, unlimited calls, and 100 SMS/day. Includes unlimited 5G data.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹429 Plan",
+      "price": 429,
+      "validity": 30,
+      "data": "2.5GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Includes 2.5GB/day data, unlimited calls, and 100 SMS/day. Comes with unlimited 5G data.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹449 Plan",
+      "price": 449,
+      "validity": 28,
+      "data": "3GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Offers 3GB/day data, unlimited calls, and 100 SMS/day. Includes unlimited 5G data and Airtel Xstream Play Premium subscription.",
+      "other_benefits": ["Airtel Xstream Play Premium"]
+    },
+    {
+      "name": "₹509 Plan",
+      "price": 509,
+      "validity": 84,
+      "data": "6GB total",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Provides 6GB total data, unlimited calls, and 100 SMS/day. Long validity for extended usage.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹549 Plan",
+      "price": 549,
+      "validity": 28,
+      "data": "3GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Includes 3GB/day data, unlimited calls, and 100 SMS/day. Comes with unlimited 5G data.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹619 Plan",
+      "price": 619,
+      "validity": 60,
+      "data": "1.5GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "No",
+      "description": "Offers 1.5GB/day data, unlimited calls, and 100 SMS/day. Extended validity for longer usage.",
+      "other_benefits": []
+    },
+    {
+      "name": "₹649 Plan",
+      "price": 649,
+      "validity": 56,
+      "data": "2GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Provides 2GB/day data, unlimited calls, and 100 SMS/day. Includes unlimited 5G data and Airtel Xstream Play subscription.",
+      "other_benefits": ["Airtel Xstream Play"]
+    },
+    {
+      "name": "₹838 Plan",
+      "price": 838,
+      "validity": 56,
+      "data": "3GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Includes 3GB/day data, unlimited calls, and 100 SMS/day. Comes with unlimited 5G data and Amazon Prime membership for 56 days.",
+      "other_benefits": ["Amazon Prime"]
+    },
+    {
+      "name": "₹979 Plan",
+      "price": 979,
+      "validity": 84,
+      "data": "2GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5g": "Yes",
+      "description": "Offers 2GB/day data, unlimited calls, and 100 SMS/day. Includes unlimited 5G data and Airtel Xstream Premium subscription.",
+      "other_benefits": ["Airtel Xstream Premium"]
+    },
+    {
+      "name": "₹1,029 Plan",
+      "price": 1029,
+      "validity": 84,
+      "data": "2GB/day",
+      "calls": "Unlimited",
+      "sms": "100/day",
+      "5
+::contentReference[oaicite:5]{index=5}
+ 
